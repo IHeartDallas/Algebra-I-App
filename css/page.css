@@ -1,0 +1,76 @@
+/* ===================================== 
+   Page Styles
+======================================== */
+
+* {
+	box-sizing: border-box;
+}
+body {
+  font-size: 1rem;
+  line-height: 1.5;
+	font-family: 'Varela Round', sans-serif;
+  font-weight: bold;
+  font-size: 25px;
+  text-align: center;
+  margin: 0;
+}
+.grid > * {
+  color: #fff;
+  font-weight: bold;
+  text-transform: uppercase;
+  padding: 1em;
+  border-radius: 0.3em;
+}
+header {
+  background-color: #3398cc;
+}
+main {
+  background-color: #976698;
+}
+
+button {
+  height: 60px;
+  width: 100px;
+  box-shadow: 5px 10px;
+  font-size: 20px;
+}
+input {
+  height: 40px;
+  width: 400px;
+  box-shadow: 5px 10px;
+}
+
+option{
+  font-size:2em;
+  border-width:6px;
+  padding:1em;
+}
+
+.grid div {
+  background-color: #8494a4;
+ 
+}
+
+#quote{
+  font-size: 35px;
+  height: 50px; 
+}
+
+#answer{
+  font-size: 20px;
+}
+
+ol li {
+  padding: 5px;
+  justify-content: left;
+}
+
+
+footer {
+  background-color: #33cacb;
+}
+
+#quiz-wrap {
+  font-family: arial, sans-serif;
+}
+
